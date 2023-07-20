@@ -1,7 +1,7 @@
 # Book_monitor_carparking
-# Ứng dụng đặt chỗ và giám sát bãi giữ xe (sử dụng công nghệ Thunkable và Firebase)
-# Link youtube: https://youtu.be/cpSvWjiURpk
-# Link code: https://x.thunkable.com/copy/3f7566f45dab1d9c53cf1329cb0eec67
+Ứng dụng đặt chỗ và giám sát bãi giữ xe (sử dụng công nghệ Thunkable và Firebase)
+Link youtube: https://youtu.be/cpSvWjiURpk
+Link code: https://x.thunkable.com/copy/3f7566f45dab1d9c53cf1329cb0eec67
 ![1](https://github.com/Khang1601/Book_monitor_carparking/assets/73419206/93e6ef9a-1348-4fd3-bf36-7ded2622f2b2)
 ![2](https://github.com/Khang1601/Book_monitor_carparking/assets/73419206/22224647-214d-4a7e-96ac-209500920260)
 ![3](https://github.com/Khang1601/Book_monitor_carparking/assets/73419206/d783370e-9645-425c-aadd-21e1ca1fa660)
