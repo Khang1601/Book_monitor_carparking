@@ -10,3 +10,5 @@ Link code: https://x.thunkable.com/copy/3f7566f45dab1d9c53cf1329cb0eec67
 ![6](https://github.com/Khang1601/Book_monitor_carparking/assets/73419206/d6b3781d-7068-4585-a467-0381ad63448c)
 ![7](https://github.com/Khang1601/Book_monitor_carparking/assets/73419206/7d7f8e03-3317-4c9e-bf83-9e9952b8ab2e)
 ![8](https://github.com/Khang1601/Book_monitor_carparking/assets/73419206/ad2f9dc8-66a2-4f68-8234-0a45bb71d46c)
+![1](https://github.com/Khang1601/Book_monitor_carparking/assets/73419206/2fab5663-4f6d-47ff-b31e-a2187871e832)
+![2](https://github.com/Khang1601/Book_monitor_carparking/assets/73419206/ec2cc5e1-7a11-43e5-a349-396fdfcb2492)
